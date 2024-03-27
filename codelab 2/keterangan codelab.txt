@@ -1,0 +1,38 @@
+APP
+4.	pada baris ini saya menghapus { throws Exception } 
+
+BALOK
+saya menambahkan kelas balok
+
+BANGUN RUANG
+6.	pada baris ini saya menghapus { String namee }
+	saya menghapus { this.name = name; }
+15.	pada baris ini saya tambahkan { + }
+19.	pada baris ini saya tambahkan { ; } 
+22.	pada baris ini saya ganti dari { s } jadi { S }
+27.	pada baris ini saya hapus { your } dan menambahkan { name; }
+ 
+KUBUS
+	saya tambahkan { constructor }
+16.	pada baris ini saya tambahkan { Nilai }
+17.	pada baris ini saya tambahkan { super.luasPermukaan(); }
+19.	pada baris ini saya tambahkan { out.print }
+20.	pada baris ini saya hapus { next } dan tambahkan { nextDouble() }
+26.	pada baris ini saya tambahkan { System }
+27.	pada baris ini saya hapus { * sisi } dan tambahkan { * Math.pow(sisi, 2); }
+	saya hapus { super.luasaan(); }
+33.	pada baris ini saya tambahkan { double }
+35.	pada baris ini saya tambahkan { System }
+
+TABUNG
+8.	pada baris ini saya tambahkan { jari-jari; } 
+18.	pada baris ini saya tambahkan { scanner. }
+19.	pada baris ini saya tambahkan { ; }
+25.	pada baris ini saya tambahkan { + tinggi }
+	saya hapus { super.luasPermukaan; }
+31.	pada baris ini saya tambahkan { ; }
+33.	pada baris ini saya tambahkan { + }
+
+
+
+
