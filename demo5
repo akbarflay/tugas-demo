@@ -23,7 +23,7 @@ public class LibrarySystem {
         daftarBuku.add(new HistoryBook("HB09P", "Dilema Bansos", 2, "History", "Moskov"));
 
         // Mengisi daftar mahasiswa
-        daftarSiswa.add(new Student("202310370311194", "M.AKBAR", "Teknik", "Mesin"));
+        daftarSiswa.add(new Student("202310370311188", "M.AKBAR", "Teknik", "Mesin"));
         daftarSiswa.add(new Student("202310370311195", "Zahratun Nida", "Teknik", "Informatika"));
         daftarSiswa.add(new Student("202310370311196", "Tio Putra", "Teknik", "Elektro"));
         menu();
